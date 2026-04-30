@@ -1,8 +1,3 @@
-// ============================================================
-// Exercícios MongoDB - Catálogo de E-commerce
-// Banco de Dados - 2º ADS - UNIFAAT
-// Aluno: José Henrique Teixeira Luiz | RA: 3225002
-// ============================================================
 
 // ============================================================
 // EXERCÍCIO 1: Criação e Coleções (CREATE - "C" do CRUD)
